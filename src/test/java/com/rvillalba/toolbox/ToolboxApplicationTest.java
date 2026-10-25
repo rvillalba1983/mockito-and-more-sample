@@ -1,13 +1,12 @@
-package com.autentia.rvillalba.toolbox;
+package com.rvillalba.toolbox;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ToolboxApplicationTest{
+class ToolboxApplicationTest {
 
-	@Test
-	void contextLoads() {
-	}
-
+    @Test
+    void contextLoads() {
+    }
 }
